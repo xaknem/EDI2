@@ -1,2 +1,2 @@
 # EDI2
-Work project with UI auto-testing frameworks and solutions.
+My framework part from project with UI auto-testing frameworks and solutions.
